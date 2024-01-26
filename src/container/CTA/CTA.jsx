@@ -10,7 +10,7 @@ const CTA = () => {
 <h3>Let’s make things happen</h3>
 
 <p className="pt-2 pb-4">Contact us today to learn more about how our digital marketing services can help your business grow and succeed online.</p>
-<buton className="btn-positivus">Get your free proposal</buton>
+<buton className="btn-positivus">Get your free </buton>
 </div>
 <div className="col-lg-4 d-lg-flex d-none">
 <img src={images.thingshappen} alt="thingshappen" />
