@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/CryptoSoc/static/css/main.d591edc3.css",
+    "main.js": "/CryptoSoc/static/js/main.5b0b584b.js",
+    "static/media/coins.png": "/CryptoSoc/static/media/coins.2f2a424dfb15f3a8f1a1.png",
+    "static/media/services06.png": "/CryptoSoc/static/media/services06.caf14aaf60b7e75aca46.png",
+    "static/media/contact.png": "/CryptoSoc/static/media/contact.5fd590d0c0ea5a5ce719.png",
+    "static/media/services05.png": "/CryptoSoc/static/media/services05.76fe0f07283babc65b99.png",
+    "static/media/services04.png": "/CryptoSoc/static/media/services04.d14c10394956adb66980.png",
+    "static/media/CryptoSoc.png": "/CryptoSoc/static/media/CryptoSoc.0178438d384fc535b38a.png",
+    "static/media/services01.png": "/CryptoSoc/static/media/services01.b844c784db9564f7544b.png",
+    "static/media/services02.png": "/CryptoSoc/static/media/services02.4ddb97074bb8a7a34763.png",
+    "static/media/services03.png": "/CryptoSoc/static/media/services03.b83a9fff9a4f1f99b606.png",
+    "static/media/thingshappen.png": "/CryptoSoc/static/media/thingshappen.05b44c89275d378b25c8.png",
+    "static/media/team03.png": "/CryptoSoc/static/media/team03.6be30b9ff9b8b7cd07d8.png",
+    "static/media/team04.png": "/CryptoSoc/static/media/team04.45d8a3735270c7befb88.png",
+    "static/media/team06.png": "/CryptoSoc/static/media/team06.45050bb36385d4930c02.png",
+    "static/media/team01.png": "/CryptoSoc/static/media/team01.8bed7e2304413c5869b7.png",
+    "static/media/team02.png": "/CryptoSoc/static/media/team02.6087426667f19f13093e.png",
+    "static/media/team05.png": "/CryptoSoc/static/media/team05.8f8330128ac7fa4e58d9.png",
+    "index.html": "/CryptoSoc/index.html",
+    "main.d591edc3.css.map": "/CryptoSoc/static/css/main.d591edc3.css.map",
+    "main.5b0b584b.js.map": "/CryptoSoc/static/js/main.5b0b584b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d591edc3.css",
+    "static/js/main.5b0b584b.js"
+  ]
+}
