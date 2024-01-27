@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/uccryptosoc.github.io/cryptoSocWeb/static/css/main.48e185c0.css",
-    "main.js": "/uccryptosoc.github.io/cryptoSocWeb/static/js/main.cf1d8aa2.js",
-    "static/media/coins.png": "/uccryptosoc.github.io/cryptoSocWeb/static/media/coins.2f2a424dfb15f3a8f1a1.png",
-    "static/media/services06.png": "/uccryptosoc.github.io/cryptoSocWeb/static/media/services06.caf14aaf60b7e75aca46.png",
-    "static/media/contact.png": "/uccryptosoc.github.io/cryptoSocWeb/static/media/contact.5fd590d0c0ea5a5ce719.png",
-    "static/media/services05.png": "/uccryptosoc.github.io/cryptoSocWeb/static/media/services05.76fe0f07283babc65b99.png",
-    "static/media/services04.png": "/uccryptosoc.github.io/cryptoSocWeb/static/media/services04.d14c10394956adb66980.png",
-    "static/media/CryptoSoc.png": "/uccryptosoc.github.io/cryptoSocWeb/static/media/CryptoSoc.0178438d384fc535b38a.png",
-    "static/media/services01.png": "/uccryptosoc.github.io/cryptoSocWeb/static/media/services01.b844c784db9564f7544b.png",
-    "static/media/services02.png": "/uccryptosoc.github.io/cryptoSocWeb/static/media/services02.4ddb97074bb8a7a34763.png",
-    "static/media/services03.png": "/uccryptosoc.github.io/cryptoSocWeb/static/media/services03.b83a9fff9a4f1f99b606.png",
-    "static/media/thingshappen.png": "/uccryptosoc.github.io/cryptoSocWeb/static/media/thingshappen.05b44c89275d378b25c8.png",
-    "static/media/team03.png": "/uccryptosoc.github.io/cryptoSocWeb/static/media/team03.6be30b9ff9b8b7cd07d8.png",
-    "static/media/team04.png": "/uccryptosoc.github.io/cryptoSocWeb/static/media/team04.45d8a3735270c7befb88.png",
-    "static/media/team06.png": "/uccryptosoc.github.io/cryptoSocWeb/static/media/team06.45050bb36385d4930c02.png",
-    "static/media/team01.png": "/uccryptosoc.github.io/cryptoSocWeb/static/media/team01.8bed7e2304413c5869b7.png",
-    "static/media/team02.png": "/uccryptosoc.github.io/cryptoSocWeb/static/media/team02.6087426667f19f13093e.png",
-    "static/media/team05.png": "/uccryptosoc.github.io/cryptoSocWeb/static/media/team05.8f8330128ac7fa4e58d9.png",
-    "index.html": "/uccryptosoc.github.io/cryptoSocWeb/index.html",
-    "main.48e185c0.css.map": "/uccryptosoc.github.io/cryptoSocWeb/static/css/main.48e185c0.css.map",
-    "main.cf1d8aa2.js.map": "/uccryptosoc.github.io/cryptoSocWeb/static/js/main.cf1d8aa2.js.map"
+    "main.css": "/cryptoSocWeb/static/css/main.6db5b552.css",
+    "main.js": "/cryptoSocWeb/static/js/main.aa935313.js",
+    "static/media/coins.png": "/cryptoSocWeb/static/media/coins.2f2a424dfb15f3a8f1a1.png",
+    "static/media/services06.png": "/cryptoSocWeb/static/media/services06.caf14aaf60b7e75aca46.png",
+    "static/media/contact.png": "/cryptoSocWeb/static/media/contact.5fd590d0c0ea5a5ce719.png",
+    "static/media/services05.png": "/cryptoSocWeb/static/media/services05.76fe0f07283babc65b99.png",
+    "static/media/services04.png": "/cryptoSocWeb/static/media/services04.d14c10394956adb66980.png",
+    "static/media/CryptoSoc.png": "/cryptoSocWeb/static/media/CryptoSoc.0178438d384fc535b38a.png",
+    "static/media/services01.png": "/cryptoSocWeb/static/media/services01.b844c784db9564f7544b.png",
+    "static/media/services02.png": "/cryptoSocWeb/static/media/services02.4ddb97074bb8a7a34763.png",
+    "static/media/services03.png": "/cryptoSocWeb/static/media/services03.b83a9fff9a4f1f99b606.png",
+    "static/media/thingshappen.png": "/cryptoSocWeb/static/media/thingshappen.05b44c89275d378b25c8.png",
+    "static/media/team03.png": "/cryptoSocWeb/static/media/team03.6be30b9ff9b8b7cd07d8.png",
+    "static/media/team04.png": "/cryptoSocWeb/static/media/team04.45d8a3735270c7befb88.png",
+    "static/media/team06.png": "/cryptoSocWeb/static/media/team06.45050bb36385d4930c02.png",
+    "static/media/team01.png": "/cryptoSocWeb/static/media/team01.8bed7e2304413c5869b7.png",
+    "static/media/team02.png": "/cryptoSocWeb/static/media/team02.6087426667f19f13093e.png",
+    "static/media/team05.png": "/cryptoSocWeb/static/media/team05.8f8330128ac7fa4e58d9.png",
+    "index.html": "/cryptoSocWeb/index.html",
+    "main.6db5b552.css.map": "/cryptoSocWeb/static/css/main.6db5b552.css.map",
+    "main.aa935313.js.map": "/cryptoSocWeb/static/js/main.aa935313.js.map"
   },
   "entrypoints": [
-    "static/css/main.48e185c0.css",
-    "static/js/main.cf1d8aa2.js"
+    "static/css/main.6db5b552.css",
+    "static/js/main.aa935313.js"
   ]
 }
