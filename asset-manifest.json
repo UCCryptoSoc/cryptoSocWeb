@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c6d3548.css",
-    "main.js": "/static/js/main.af364b11.js",
+    "main.css": "/static/css/main.96255394.css",
+    "main.js": "/static/js/main.f42f81d6.js",
     "static/media/coins.png": "/static/media/coins.2f2a424dfb15f3a8f1a1.png",
+    "static/media/wip.png": "/static/media/wip.8139f3b34a96a40dbafd.png",
     "static/media/services06.png": "/static/media/services06.caf14aaf60b7e75aca46.png",
     "static/media/contact.png": "/static/media/contact.5fd590d0c0ea5a5ce719.png",
     "static/media/services05.png": "/static/media/services05.76fe0f07283babc65b99.png",
@@ -19,11 +20,11 @@
     "static/media/team02.png": "/static/media/team02.6087426667f19f13093e.png",
     "static/media/team05.png": "/static/media/team05.8f8330128ac7fa4e58d9.png",
     "index.html": "/index.html",
-    "main.8c6d3548.css.map": "/static/css/main.8c6d3548.css.map",
-    "main.af364b11.js.map": "/static/js/main.af364b11.js.map"
+    "main.96255394.css.map": "/static/css/main.96255394.css.map",
+    "main.f42f81d6.js.map": "/static/js/main.f42f81d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c6d3548.css",
-    "static/js/main.af364b11.js"
+    "static/css/main.96255394.css",
+    "static/js/main.f42f81d6.js"
   ]
 }
