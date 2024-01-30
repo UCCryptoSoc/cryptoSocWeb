@@ -3,24 +3,24 @@ import images from './images';
 const Menu = [
     {
         text: 'About us',
-        link: '#team',
+        link: 'team',
     },
     {
         text: 'What is Crypto',
-        link: '#services',
+        link: 'crypto',
     },
     {
         text: 'The DOA',
-        link: '#use-cases',
+        link: 'DOA',
     },
     {
         text: 'Events',
-        link: '#process',
+        link: 'events',
     },
 
     {
         text: 'Become a Sponsor',
-        link: '#quote',
+        link: 'sponsor',
     }
 ];
 const ServicesData = [

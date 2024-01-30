@@ -9,7 +9,7 @@ const Menu = () => {
     return (
         <Navbar collapseOnSelect expand="lg" bg="ligth" variant="ligth">
             <Container>
-                <Navbar.Brand href="#home"> <img src={images.logo} alt="logo" /></Navbar.Brand>
+                <Navbar.Brand href="/"> <img src={images.logo} alt="logo" /></Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav" className="justify-content-end">
                     <Nav>
