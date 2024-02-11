@@ -1,10 +1,10 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Hero} from './container';
 import { Menu } from './components';
+import { Hero } from './container';
 //import { Team } from './container';
-import { UnderConstruction } from './container';
 import React, { Suspense } from 'react';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
+import { UnderConstruction } from './container';
 
 
 
@@ -15,7 +15,7 @@ const { PUBLIC_URL } = process.env;
 //const Hero = lazy(() => import('./Hero'));
 
 const App = () => (
-  <BrowserRouter basename={PUBLIC_URL}>
+  <HashRouter basename={PUBLIC_URL}>
     <div className="container">
       <Suspense fallback={<div>Loading...</div>}>
         <Menu />
@@ -30,7 +30,7 @@ const App = () => (
         </Routes>
       </Suspense>
     </div>
-  </BrowserRouter>
+  </HashRouter>
 );
 
 export default App;

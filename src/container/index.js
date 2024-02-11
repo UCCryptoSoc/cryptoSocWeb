@@ -1,4 +1,4 @@
-import Testimonials from './Testimonials/Testimonials';
+import CTA from './CTA/CTA';
 import CaseStudies from './CaseStudies/CaseStudies';
 import Contact from './Contact/Contact';
 import Footer from './Footer/Footer';
@@ -6,18 +6,14 @@ import Hero from './Hero/Hero';
 import Process from './Process/Process';
 import Services from './Services/Services';
 import Team from './Team/Team';
-import CTA from './CTA/CTA';
-import UnderConstruction from './UnderConstruction/UnderConstruction'
+import Testimonials from './Testimonials/Testimonials';
+import UnderConstruction from './UnderConstruction/UnderConstruction';
 
 export {
-    Testimonials,
-    CaseStudies,
-    CTA,
-    Contact,
+    CTA, CaseStudies, Contact,
     Footer,
     Hero,
     Process,
     Services,
-    Team,
-    UnderConstruction,
-}
+    Team, Testimonials, UnderConstruction
+};
