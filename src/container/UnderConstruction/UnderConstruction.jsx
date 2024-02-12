@@ -14,4 +14,4 @@ const UnderConstruction = () => {
   );
 };
 
-export default UnderConstruction;
+export default UnderConstruction

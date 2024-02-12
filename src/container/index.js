@@ -10,10 +10,15 @@ import Testimonials from './Testimonials/Testimonials';
 import UnderConstruction from './UnderConstruction/UnderConstruction';
 
 export {
-    CTA, CaseStudies, Contact,
+    CTA,
+    CaseStudies,
+    Contact,
     Footer,
     Hero,
     Process,
     Services,
-    Team, Testimonials, UnderConstruction
+    Team,
+    Testimonials,
+    UnderConstruction
 };
+
