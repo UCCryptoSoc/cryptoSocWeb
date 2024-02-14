@@ -10,12 +10,12 @@ const App = () => (
       <Suspense fallback={<div>Loading...</div>}>
         <Menu />
         <Routes>
+          <Route path="/team" element={<UnderConstruction />} />
+          <Route path="/crypto" element={<UnderConstruction />} />
+          <Route path="/DOA" element={<UnderConstruction />} />
+          <Route path="/events" element={<Hero />} />
+          <Route path="/sponsor" element={<UnderConstruction />} />
           <Route path="/" element={<Hero />} />
-          <Route path="/#/team" element={<UnderConstruction />} />
-          <Route path="/#/crypto" element={<UnderConstruction />} />
-          <Route path="/#/DOA" element={<UnderConstruction />} />
-          <Route path="/#/events" element={<Hero />} />
-          <Route path="/#/sponsor" element={<UnderConstruction />} />
         </Routes>
       </Suspense>
     </div>
