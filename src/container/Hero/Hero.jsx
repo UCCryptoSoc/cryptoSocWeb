@@ -1,6 +1,6 @@
 import React from 'react';
+import { IconScroll } from '../../components';
 import { images } from '../../constants';
-import {IconScroll} from '../../components';
 import './Hero.css';
 
 
@@ -14,7 +14,7 @@ const Hero = () => {
         <div className="col-md-6 col-12">
           <h1 className="title"> Freedom and Sovereignty in Every Transaction  </h1>
           <p className="py-4">Born too late to explore the seas, born to early to explore the stars, born just in time to witness the rise of the cryptocurrency revolution.</p>
-          <a href="https://docs.google.com/forms/d/1x2nblBXavQ6lek-OtlGGlaEmBVhXyOy8VwGYsgJNZcU/viewform?edit_requested=true">
+          <a href="https://forms.gle/vnDPxdGHwXDcVrcn6">
           <button className="btn-positivus">Join the club</button>
           </a>
         </div>
