@@ -1,8 +1,10 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { Menu } from './components';
+import { Hero } from './container';
+//import { Team } from './container';
 import React, { Suspense } from 'react';
 import { Route, HashRouter as Router, Routes } from 'react-router-dom';
-import { Menu } from './components';
-import { Hero, UnderConstruction } from './container';
+import { Sponsor, UnderConstruction } from './container';
 
 const App = () => (
   <Router>
@@ -14,7 +16,7 @@ const App = () => (
           <Route path="/crypto" element={<UnderConstruction />} />
           <Route path="/DOA" element={<UnderConstruction />} />
           <Route path="/events" element={<UnderConstruction />} />
-          <Route path="/sponsor" element={<UnderConstruction />} />
+          <Route path="/sponsor" element={<Sponsor />} />
           <Route path="/" element={<Hero />} />
         </Routes>
       </Suspense>

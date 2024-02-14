@@ -5,6 +5,7 @@ import Footer from './Footer/Footer';
 import Hero from './Hero/Hero';
 import Process from './Process/Process';
 import Services from './Services/Services';
+import Sponsor from './Sponsors/sponsor';
 import Team from './Team/Team';
 import Testimonials from './Testimonials/Testimonials';
 import UnderConstruction from './UnderConstruction/UnderConstruction';
@@ -16,8 +17,7 @@ export {
     Footer,
     Hero,
     Process,
-    Services,
-    Team,
+    Services, Sponsor, Team,
     Testimonials,
     UnderConstruction
 };
