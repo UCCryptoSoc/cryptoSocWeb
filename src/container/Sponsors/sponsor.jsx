@@ -37,7 +37,29 @@ const Sponsor = () => {
                                 />
                             </div>
                             <div className="form-group">
-                                <label htmlFor="entry.345678901">Message*</label>
+                                <label htmlFor="entry.987654321">Pledge Amount*</label>
+                                <input
+                                    className="form-control"
+                                    type="email"
+                                    id="entry.987654321" // Replace with your actual field ID
+                                    name="entry.987654321" // Replace with your actual field ID
+                                    placeholder="$0.00"
+                                    required
+                                />
+                            </div>
+                            <div className="form-group">
+                                <label htmlFor="entry.987654321">Reason for wanting to support*</label>
+                                <input
+                                    className="form-control"
+                                    type="email"
+                                    id="entry.987654321" // Replace with your actual field ID
+                                    name="entry.987654321" // Replace with your actual field ID
+                                    placeholder="Why do you want to help us?"
+                                    required
+                                />
+                            </div>
+                            <div className="form-group">
+                                <label htmlFor="entry.345678901">Messages for the team*</label>
                                 <textarea
                                     className="form-control"
                                     id="entry.345678901" // Replace with your actual field ID
