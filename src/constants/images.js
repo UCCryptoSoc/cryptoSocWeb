@@ -1,26 +1,27 @@
-import thingshappen  from '../assets/thingshappen.png';
-import contact  from '../assets/contact.png';
-import logo  from '../assets/CryptoSoc.png';
-import logo01  from '../assets/logo01.png';
-import logo02  from '../assets/logo02.png';
-import logo03  from '../assets/logo03.png';
-import logo04  from '../assets/logo04.png';
-import logo05  from '../assets/logo05.png';
-import logo06  from '../assets/logo06.png';
-import logofooter  from '../assets/logofooter.png';
-import services01  from '../assets/services01.png';
-import services02  from '../assets/services02.png';
-import services03  from '../assets/services03.png';
-import services04  from '../assets/services04.png';
-import services05  from '../assets/services05.png';
-import services06  from '../assets/services06.png';
+import logo from '../assets/CryptoSoc.png';
+import hero from '../assets/coins.png';
+import contact from '../assets/contact.png';
+import logo01 from '../assets/logo01.png';
+import logo02 from '../assets/logo02.png';
+import logo03 from '../assets/logo03.png';
+import logo04 from '../assets/logo04.png';
+import logo05 from '../assets/logo05.png';
+import logo06 from '../assets/logo06.png';
+import logofooter from '../assets/logofooter.png';
+import male from '../assets/male.png';
+import services01 from '../assets/services01.png';
+import services02 from '../assets/services02.png';
+import services03 from '../assets/services03.png';
+import services04 from '../assets/services04.png';
+import services05 from '../assets/services05.png';
+import services06 from '../assets/services06.png';
+import team01 from '../assets/team01.png';
 import team02 from '../assets/team02.png';
 import team03 from '../assets/team03.png';
 import team04 from '../assets/team04.png';
 import team05 from '../assets/team05.png';
 import team06 from '../assets/team06.png';
-import team01 from '../assets/team01.png';
-import hero from '../assets/coins.png';
+import thingshappen from '../assets/thingshappen.png';
 import wip from '../assets/wip.png';
 
 export default{
@@ -48,5 +49,6 @@ team06,
 team01,
 hero,
 wip,
+male,
 
 };
