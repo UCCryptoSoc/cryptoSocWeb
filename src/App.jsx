@@ -13,7 +13,7 @@ const App = () => (
           <Route path="/team" element={<UnderConstruction />} />
           <Route path="/core" element={<UnderConstruction />} />
           <Route path="/crypto" element={<UnderConstruction />} />
-          <Route path="/DOA" element={<DAOInfo />} />
+          <Route path="/DAO" element={<DAOInfo />} />
           <Route path="/events" element={<UnderConstruction />} />
           <Route path="/sponsor" element={<UnderConstruction />} />
           <Route path="/" element={<Hero />} />

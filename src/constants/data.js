@@ -14,8 +14,8 @@ const Menu = [
         link: 'crypto',
     },
     {
-        text: 'The DOA',
-        link: 'DOA',
+        text: 'The DAO',
+        link: 'DAO',
     },
 
     {

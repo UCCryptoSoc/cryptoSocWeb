@@ -27,7 +27,7 @@ const DAOInfo = () => {
             the hands of all members in a fair, open way.
           </p>
           <a href="https://www.investopedia.com/tech/what-dao/">
-          <button className="btn-learn-more">Learn More About DOA&apos;s here</button>
+          <button className="btn-learn-more">Learn More About DAO&apos;s here</button>
           </a>
         </div>
         <div className="col-lg-4 d-lg-flex d-none">
