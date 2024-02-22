@@ -40,7 +40,6 @@ width: 70px;
 .card-team-header a svg{
     font-size: 20px;
     color: #000;
-    background: var(--color-highlight);
 }
 
 .card-team-header a svg:hover{

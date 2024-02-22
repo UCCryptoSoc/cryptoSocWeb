@@ -3,7 +3,7 @@
 :root {
     --font-base: 'Space Grotesk', sans-serif;
     --color-text: #000000;
-    --color-highlight: #B9FF66;
+    --color-highlight: #ffb222;
     --color-dark: #191A23;
     --color-grey: #F3F3F3;
 }
@@ -14,7 +14,7 @@
 }
 
 .section-padding {
-    margin: 130px 0;
+    margin: 50px 0;
 }
 
 @media(max-width: 768px) {

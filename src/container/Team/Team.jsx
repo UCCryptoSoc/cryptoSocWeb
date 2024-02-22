@@ -1,13 +1,13 @@
 import React from 'react';
+import { BsLinkedin } from 'react-icons/bs';
 import { Headings } from '../../components';
 import { data } from '../../constants';
-import { BsLinkedin } from 'react-icons/bs';
 import './Team.css';
 
 const Team = () => {
   return (
     <div className="section-padding">
-      <Headings title="Team" text="Meet the skilled and experienced team behind our successful digital marketing strategies" />
+      <Headings h3 title="Core Members" text="Meet the Core Contributors Driving Innovation at CryptoSoc DAO" />
 
       <div className="row">
         {data.Team.map(({ name, position, info, foto, linkedin }, index) => (
@@ -27,7 +27,7 @@ const Team = () => {
         ))}
       </div>
       <div className="d-flex mt-2 justify-content-md-end justify-content-center">
-        <button className="btn-positivus">See all team</button>
+        <button className="btn-positivus">Interested in being a core member?</button>
       </div>
     </div>
   );
