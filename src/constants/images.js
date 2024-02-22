@@ -1,4 +1,5 @@
 import logo from '../assets/CryptoSoc.png';
+import daostructure from '../assets/DaoStructure.png';
 import hero from '../assets/coins.png';
 import contact from '../assets/contact.png';
 import logo01 from '../assets/logo01.png';
@@ -50,5 +51,5 @@ team01,
 hero,
 wip,
 male,
-
+daostructure,
 };

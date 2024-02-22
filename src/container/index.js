@@ -1,6 +1,7 @@
 import CTA from './CTA/CTA';
 import CaseStudies from './CaseStudies/CaseStudies';
 import Contact from './Contact/Contact';
+import DAOInfo from './DAOInfo/DAOInfo';
 import Footer from './Footer/Footer';
 import Hero from './Hero/Hero';
 import Process from './Process/Process';
@@ -12,8 +13,7 @@ import UnderConstruction from './UnderConstruction/UnderConstruction';
 export {
     CTA,
     CaseStudies,
-    Contact,
-    Footer,
+    Contact, DAOInfo, Footer,
     Hero,
     Process,
     Services,
