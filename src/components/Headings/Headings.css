@@ -1,12 +1,10 @@
 .headings {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    flex-wrap: nowrap;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 1rem; /* Adjust the gap as needed */
     align-items: center;
-    margin: 4rem 0rem 2rem;
+    margin: 1rem 0rem 1rem;
 }
-
 
 .headings h3 {
     font-weight: 500;
@@ -14,7 +12,6 @@
     line-height: 41px;
     padding: .3rem;
     border-radius: 5px;
-    margin-right: 1rem;
 }
 
 .headings p {
@@ -22,6 +19,8 @@
     font-size: 18px;
     line-height: 23px;
     max-width: 580px;
+    margin-top: 0;
+    grid-column: span 2;
 }
 
 @media(max-width: 768px) {

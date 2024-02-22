@@ -13,6 +13,7 @@ const App = () => (
         <Menu />
         <Routes>
           <Route path="/team" element={<UnderConstruction />} />
+          <Route path="/core" element={<UnderConstruction />} />
           <Route path="/crypto" element={<UnderConstruction />} />
           <Route path="/DOA" element={<UnderConstruction />} />
           <Route path="/events" element={<UnderConstruction />} />
