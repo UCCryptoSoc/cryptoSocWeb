@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.51e95b56.css",
-    "main.js": "/static/js/main.fa9728ea.js",
+    "main.css": "/static/css/main.4336a5d9.css",
+    "main.js": "/static/js/main.32fb3626.js",
     "static/media/coins.png": "/static/media/coins.2f2a424dfb15f3a8f1a1.png",
     "static/media/wip.png": "/static/media/wip.8139f3b34a96a40dbafd.png",
     "static/media/male.png": "/static/media/male.e5a65ef3039933ad327c.png",
+    "static/media/about.png": "/static/media/about.bd4fcebcd987cf70840b.png",
     "static/media/services06.png": "/static/media/services06.caf14aaf60b7e75aca46.png",
     "static/media/contact.png": "/static/media/contact.5fd590d0c0ea5a5ce719.png",
+    "static/media/CryptoImages.png": "/static/media/CryptoImages.4541eba0a4d04d6fc4e9.png",
     "static/media/services05.png": "/static/media/services05.76fe0f07283babc65b99.png",
     "static/media/services04.png": "/static/media/services04.d14c10394956adb66980.png",
     "static/media/CryptoSoc.png": "/static/media/CryptoSoc.0178438d384fc535b38a.png",
@@ -21,11 +23,11 @@
     "static/media/team02.png": "/static/media/team02.6087426667f19f13093e.png",
     "static/media/team05.png": "/static/media/team05.8f8330128ac7fa4e58d9.png",
     "index.html": "/index.html",
-    "main.51e95b56.css.map": "/static/css/main.51e95b56.css.map",
-    "main.fa9728ea.js.map": "/static/js/main.fa9728ea.js.map"
+    "main.4336a5d9.css.map": "/static/css/main.4336a5d9.css.map",
+    "main.32fb3626.js.map": "/static/js/main.32fb3626.js.map"
   },
   "entrypoints": [
-    "static/css/main.51e95b56.css",
-    "static/js/main.fa9728ea.js"
+    "static/css/main.4336a5d9.css",
+    "static/js/main.32fb3626.js"
   ]
 }
