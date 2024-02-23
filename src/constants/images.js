@@ -1,3 +1,4 @@
+import crypto from '../assets/CryptoImages.png';
 import logo from '../assets/CryptoSoc.png';
 import daostructure from '../assets/DaoStructure.png';
 import hero from '../assets/coins.png';
@@ -52,4 +53,5 @@ hero,
 wip,
 male,
 daostructure,
+crypto,
 };
