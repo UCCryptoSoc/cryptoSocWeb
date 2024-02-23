@@ -3,7 +3,7 @@ import images from './images';
 const Menu = [
     {
         text: 'About us',
-        link: 'team',
+        link: 'about',
     },
     {
         text: 'Core Members',

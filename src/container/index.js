@@ -1,3 +1,4 @@
+import About from './About/About';
 import CTA from './CTA/CTA';
 import CaseStudies from './CaseStudies/CaseStudies';
 import Contact from './Contact/Contact';
@@ -13,7 +14,7 @@ import Testimonials from './Testimonials/Testimonials';
 import UnderConstruction from './UnderConstruction/UnderConstruction';
 
 export {
-    CTA,
+    About, CTA,
     CaseStudies,
     Contact, Crypto, DAOInfo, Footer,
     Hero,
