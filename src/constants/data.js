@@ -3,7 +3,7 @@ import images from './images';
 const Menu = [
     {
         text: 'About us',
-        link: 'team',
+        link: 'about',
     },
     {
         text: 'Core Members',
@@ -14,8 +14,8 @@ const Menu = [
         link: 'crypto',
     },
     {
-        text: 'The DOA',
-        link: 'DOA',
+        text: 'The DAO',
+        link: 'DAO',
     },
 
     {

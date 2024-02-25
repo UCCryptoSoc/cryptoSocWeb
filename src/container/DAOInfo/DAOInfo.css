@@ -1,0 +1,43 @@
+.dao-info {
+    background: #F3F3F3;
+    border-radius: 45px;
+    position: relative;
+    padding: 4rem 3rem;
+    margin: 6rem 0;
+  }
+  
+  .dao-info img {
+    margin-top: auto;
+    position: absolute;
+    bottom: 50;
+    max-width: 100%;
+  }
+  
+  .dao-info button {
+    border: 1px solid;
+    border-radius: 5px;
+    margin-left: 10px;
+  }
+  
+  .dao-info button:hover {
+    background: var(--color-highlight);
+    border-radius: 5px;
+    color: var(--color-text);
+  }
+
+  @media (max-width: 960px) {
+    .dao-info {
+      padding: 2rem;
+      text-align: center;
+      margin: 4rem 1rem;
+    }
+
+  .dao-info img {
+    position: static;
+    margin-top: 1rem;
+  }
+
+  .dao-info button {
+    margin-left: 0; /* Remove left margin on smaller screens */
+  }
+}

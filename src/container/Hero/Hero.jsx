@@ -1,5 +1,5 @@
 import React from 'react';
-import { IconScroll } from '../../components';
+import Carousel from 'react-bootstrap/Carousel';
 import { images } from '../../constants';
 import './Hero.css';
 
@@ -31,10 +31,26 @@ const Hero = () => {
         alt={images[logo]}
       />
     ))}
-  
       </div>
-      <IconScroll />
+
+
+      <div className ="sponsors">
+      <Carousel>
+          {logos.map((logo, index) => (
+            <Carousel.Item className="Carousel" interval={3000} key={index}>
+              <Carousel.Caption>
+                <img
+                key={index}
+                src={images[logo]}
+                alt={images[logo]}
+                />
+              </Carousel.Caption>
+            </Carousel.Item>
+          ))}
+        </Carousel>
+      </div>
     </div>
+    
     
   )
 }

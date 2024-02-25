@@ -1,0 +1,24 @@
+.spon{
+    background: #F3F3F3;
+    border-radius: 45px;
+    position: relative;
+    padding:4rem  3rem;
+    margin: 6rem 0;
+    }
+    
+    .spon img{
+    margin-top: -100px;
+        position: absolute;
+    }
+    
+    @media(max-width: 960px) {
+        
+        .spon{
+            padding:2rem;
+            text-align: center;
+            margin: 4rem 1rem;
+            }
+    
+    
+    }
+    

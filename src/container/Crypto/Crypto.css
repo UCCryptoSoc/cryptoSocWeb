@@ -1,0 +1,43 @@
+.crypto {
+    background: #F3F3F3;
+    border-radius: 45px;
+    position: relative;
+    padding: 4rem 3rem;
+    margin: 6rem 0;
+}
+
+.crypto img {
+    margin-top: auto;
+    position: absolute;
+    bottom: 50;
+    max-width: 100%;
+}
+
+.crypto button {
+    border: 1px solid;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.crypto button:hover {
+    background: var(--color-highlight);
+    border-radius: 5px;
+    color: var(--color-text);
+}
+
+@media (max-width: 960px) {
+    .crypto {
+    padding: 2rem;
+    text-align: center;
+    margin: 4rem 1rem;
+    }
+
+.crypto img {
+    position: static;
+    margin-top: 1rem;
+}
+
+.crypto button {
+    margin-left: 0; /* Remove left margin on smaller screens */
+}
+}

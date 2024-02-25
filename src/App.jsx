@@ -4,7 +4,7 @@ import { Hero } from './container';
 //import { Team } from './container';
 import React, { Suspense } from 'react';
 import { Route, HashRouter as Router, Routes } from 'react-router-dom';
-import { Sponsor, UnderConstruction } from './container';
+import { About, Crypto, DAOInfo, TempSponsor, UnderConstruction } from './container';
 
 const App = () => (
   <Router>
@@ -12,12 +12,11 @@ const App = () => (
       <Suspense fallback={<div>Loading...</div>}>
         <Menu />
         <Routes>
-          <Route path="/team" element={<UnderConstruction />} />
+          <Route path="/about" element={<About />} />
           <Route path="/core" element={<UnderConstruction />} />
-          <Route path="/crypto" element={<UnderConstruction />} />
-          <Route path="/DOA" element={<UnderConstruction />} />
-          <Route path="/events" element={<UnderConstruction />} />
-          <Route path="/sponsor" element={<Sponsor />} />
+          <Route path="/crypto" element={<Crypto />} />
+          <Route path="/DAO" element={<DAOInfo />} />
+          <Route path="/sponsor" element={<TempSponsor />} />
           <Route path="/" element={<Hero />} />
         </Routes>
       </Suspense>
